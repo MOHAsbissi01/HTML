@@ -1,0 +1,8 @@
+<style>
+  .my-class {
+    font-size: 20px;
+    color: red;
+  }
+</style>
+<h1 class="my-class">My Heading</h1> <!-- This heading is styled with the .my-class CSS class -->
+<p class="my-class">This paragraph is styled with the same .my-class CSS class</p>
